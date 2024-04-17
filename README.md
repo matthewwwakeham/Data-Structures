@@ -80,7 +80,7 @@ for item in my_list:
 ```  
 **Output**  
 ```
-All items in the list are printed: [1, 2, new_item, 4, 5, 6].
+All items in the list are printed: [1, 2, new_item, 4, 5, 6]
 ```
 
 ### List Comprehensions
@@ -92,7 +92,7 @@ squares = [x**2 for x in range(10)]
 ```
 **Output**  
 ```
-Output: squares = [0, 1, 4, 9, 16, 25, 36, 49, 64, 81].
+Output: squares = [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 ```
 
 ### Nested Lists
@@ -114,7 +114,7 @@ concatenated_list = list1 + list2
 ```
 **Output**  
 ```
-Output: concatenated_list = [1, 2, 3, 4, 5 6].
+Output: concatenated_list = [1, 2, 3, 4, 5 6]
 ```
 
 ### List Mutability
