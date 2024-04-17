@@ -32,7 +32,7 @@ You can add an item to the end of a list with append:
 my_list.apped(6)
 ```
 
-**Output** 
+**Output**   
 ```
 my_list = [1, 2, 3, 4, 5, 6]
 ```
@@ -48,7 +48,7 @@ my_list = [1, 2, new_item, 3, 4, 5, 6]
 ```
 
 You can also remove an item from a list:  
-**Code**
+**Code**  
 ```
 del my_list[3]
 ```
@@ -69,19 +69,19 @@ Output: [2, new_item, 4]
 
 # Iteration
 By using loops you can iterate over elements in a list.  
-**Code**
+**Code**  
 ```
 for item in my_list:
   print(item)
 ```  
-**Output**
+**Output**  
 ```
 All items in the list are printed: [1, 2, new_item, 4, 5, 6].
 ```
 
 # List Comprehensions
-List comprehensions are a concise way to create lists.  
-**Code**
+List comprehensions are a concise way to create lists.   
+**Code**  
 ```
 squares = [x**2 for x in range(10)]
 ```
@@ -98,7 +98,7 @@ nested_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ```
 
 # List Operations
-Lists support some opperations like concatenation **+**, repetition *****, membership **in** and length **len()**.  
+Lists support some opperations like concatenation **(+)**, repetition **(*)**, membership **in** and length **len()**.  
 **Code**  
 ```
 list1 = [1, 2, 3]
