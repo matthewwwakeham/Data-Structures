@@ -5,7 +5,7 @@ Data Structures in Python. I explore lists, tuples, dictionaries, sets, arrays, 
 A list is a data structure in Python that holds an ordered collection of items. Items can be of any data type (integer, float, string, etc.). Lists are also mutable which means they can be modified after creation.
 
 # How to Create a List
-Lists can be created by enclosing items in square brackets '[]'.  
+Lists can be created by enclosing items in square brackets '[ ]'.  
 For example: **my_list = [1, 2, 3, 4, 5]**.
 
 # How to Access Elements in a List
