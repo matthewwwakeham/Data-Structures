@@ -38,6 +38,7 @@ my_list = [1, 2, 3, 4, 5, 6]
 ```
 
 You can insert a new item at a specific position in a list:  
+
 **Code**  
 ```
 my_list.insert(2, 'new_item')
@@ -48,6 +49,7 @@ my_list = [1, 2, new_item, 3, 4, 5, 6]
 ```
 
 You can also remove an item from a list:  
+
 **Code**  
 ```
 del my_list[3]
@@ -58,6 +60,7 @@ my_list = [1, 2, new_item, 4, 5, 6]
 ```
 
 You can even extract a portion of a list by slicing:  
+
 **Code**  
 ```
 sliced_list = my_list[1:4]
@@ -69,6 +72,7 @@ Output: [2, new_item, 4]
 
 # Iteration
 By using loops you can iterate over elements in a list.  
+
 **Code**  
 ```
 for item in my_list:
@@ -81,6 +85,7 @@ All items in the list are printed: [1, 2, new_item, 4, 5, 6].
 
 # List Comprehensions
 List comprehensions are a concise way to create lists.   
+
 **Code**  
 ```
 squares = [x**2 for x in range(10)]
@@ -92,13 +97,15 @@ Output: squares = [0, 1, 4, 9, 16, 25, 36, 49, 64, 81].
 
 # Nested Lists
 A list can contain other lists of elements.  
+
 **Code**  
 ```
 nested_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ```
 
 # List Operations
-Lists support some opperations like concatenation **(+)**, repetition **(*)**, membership **in** and length **len()**.  
+Lists support some opperations like concatenation (+), repetition (*), membership (in) and length (len()).
+
 **Code**  
 ```
 list1 = [1, 2, 3]
