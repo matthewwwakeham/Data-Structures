@@ -115,6 +115,8 @@ concatenated_list = list1 + list2
 **Output**  
 ```
 Output: concatenated_list = [1, 2, 3, 4, 5 6].
+
+## Tuples
 ```
 
 ### List Mutability
