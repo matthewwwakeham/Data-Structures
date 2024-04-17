@@ -8,7 +8,7 @@ A list is a data structure in Python that holds an ordered collection of items. 
 Lists can be created by enclosing items in square brackets '[ ]'.  
 For example: **my_list = [1, 2, 3, 4, 5]**.
 
-# How to Access Elements in a List
+## How to Access Elements in a List
 Elements in a list can be accessed via index. Indexing starts from 0 and elements can be accessed individually or in slices.  
 The starting index is not included in the output.
 
