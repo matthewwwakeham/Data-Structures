@@ -1,4 +1,4 @@
-# Data-Structures
+# Data Structures
 Data Structures in Python. I explore lists, tuples, dictionaries, sets, arrays, stacks, queues, trees and graphs.
 
 ## What is a List?
